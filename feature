@@ -3,4 +3,5 @@ We are doing commit 2.
 We are doing commit 3.
 conflict 1
 
-feature 1
+feature 2
+
