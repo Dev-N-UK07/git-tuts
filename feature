@@ -4,3 +4,4 @@ We are doing commit 3.
 conflict 1
 
 feature 2
+
