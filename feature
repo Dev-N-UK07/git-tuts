@@ -5,4 +5,5 @@ conflict 1
 
 feature 2
 
-issue1
+
+issue 2
